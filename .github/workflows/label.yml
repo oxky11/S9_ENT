@@ -24,4 +24,4 @@ jobs:
             python-version: 3.8
       - name: Run tests
         run: |
-            python -m unittest tests\test_suma.py
+            python -m unittest tests/test_suma.py
